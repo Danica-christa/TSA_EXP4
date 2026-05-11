@@ -60,7 +60,7 @@ plt.tight_layout()
 plt.show()
 ```
 <img width="878" height="581" alt="image" src="https://github.com/user-attachments/assets/4cc29fb6-53e4-4586-ade7-4391fbdd0615" />
-```
+
 ```
 arma11_model = ARIMA(X, order=(1, 0, 1)).fit()
 
@@ -100,7 +100,7 @@ plt.show()
 
 plot_pacf(ARMA_2)
 plt.show()
-```
+
 ```
 OUTPUT:
 SIMULATED ARMA(1,1) PROCESS:
