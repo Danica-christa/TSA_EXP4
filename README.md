@@ -104,10 +104,10 @@ plt.show()
 ```
 OUTPUT:
 SIMULATED ARMA(1,1) PROCESS:
-```
+
 <img width="702" height="527" alt="image" src="https://github.com/user-attachments/assets/72b95c48-75a0-4530-a531-109ec98a469f" />
 
-```
+
 Partial Autocorrelation
 ```
 <img width="726" height="537" alt="image" src="https://github.com/user-attachments/assets/4d9e1095-5ef1-4251-bc62-2bddb2344b58" />
