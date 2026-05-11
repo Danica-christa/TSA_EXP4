@@ -109,29 +109,29 @@ SIMULATED ARMA(1,1) PROCESS:
 
 
 Partial Autocorrelation
-```
+
 <img width="726" height="537" alt="image" src="https://github.com/user-attachments/assets/4d9e1095-5ef1-4251-bc62-2bddb2344b58" />
-```
+
 
 Autocorrelation
-```
+
 <img width="726" height="533" alt="image" src="https://github.com/user-attachments/assets/fd6f6d8d-a714-4a84-90f4-9a23d2418ebf" />
-```
+
 
 SIMULATED ARMA(2,2) PROCESS:
-```
+
 <img width="712" height="538" alt="image" src="https://github.com/user-attachments/assets/f25ef72e-db11-47f2-8d23-d60f7c1a6308" />
-```
+
 
 Partial Autocorrelation
-```
+
 <img width="786" height="541" alt="image" src="https://github.com/user-attachments/assets/e94124c6-e8ae-4630-b6d5-749709bf248e" />
-```
+
 
 Autocorrelation
-```
+
 <img width="773" height="523" alt="image" src="https://github.com/user-attachments/assets/b1616f14-bc6c-455a-a9ad-c39fba110fb5" />
-```
+
 
 RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
