@@ -44,10 +44,10 @@ plt.figure(figsize=(12,6))
 plt.plot(X)
 plt.title('Open Price (Differenced)')
 plt.show()
- 
+```
 <img width="1247" height="657" alt="image" src="https://github.com/user-attachments/assets/b53d5e42-4c05-4030-a731-37eabdefcd5a" />
 
- 
+``` 
 plt.subplot(2, 1, 1)
 plot_acf(X, lags=50, ax=plt.gca())
 plt.title('ACF')
@@ -58,9 +58,9 @@ plt.title('PACF')
 
 plt.tight_layout()
 plt.show()
-
+```
 <img width="878" height="581" alt="image" src="https://github.com/user-attachments/assets/4cc29fb6-53e4-4586-ade7-4391fbdd0615" />
-
+``
 arma11_model = ARIMA(X, order=(1, 0, 1)).fit()
 
 phi1 = arma11_model.params['ar.L1']
